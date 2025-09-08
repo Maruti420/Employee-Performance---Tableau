@@ -34,9 +34,6 @@ User-friendly design with professional layout.
 <img width="1550" height="869" alt="Screenshot 2025-09-08 111957" src="https://github.com/user-attachments/assets/d5a9da69-0a5a-4006-9439-82982bb79166" />
 
 
-Example:
-
-![Employee Performance Dashboard Preview](dashboard_preview.png)
 
 🔮 Future Improvements
 Add predictive analytics for attrition forecasting.
